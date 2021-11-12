@@ -1,9 +1,12 @@
-import './App.css';
+import "./App.css";
+import HomeIndex from "./pages/home/index";
+import ShopIndex from "./pages/shop/index";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Shop Now</h1>
+    <div>
+      <HomeIndex />
+      <ShopIndex />
     </div>
   );
 }

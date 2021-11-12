@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Discover() {
+export default function Landing() {
     return (
         <div>
-            Discover page
+            Landing page
         </div>
     )
 }
